@@ -8,6 +8,7 @@ function App() {
     <>
       <div>
         <h1>React Query</h1>
+        <h1>git</h1>
         </div>
     </>
   )
